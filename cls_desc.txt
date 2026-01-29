@@ -1,1 +1,2 @@
 class Logging
+logger_deco
