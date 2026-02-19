@@ -1,4 +1,1 @@
-correct line1
-correct line2
-correct line3
-not correct line
+line1\nline2\nline3
